@@ -1,0 +1,13 @@
+<config>
+	<adcredentials username="lezcanoi" password="password" />
+	<!--
+	<group adgroup="u_rye_cnc" roleid="102" />
+	<group adgroup="u_rye_ww_associates Properties" roleid="103" />
+	<group adgroup="u_rye_hr_latin america hr_f" roleid="104" />
+	<group adgroup="u_rye_clarity users" roleid="105" />
+	<group adgroup="u_rye_clarity report users" roleid="106" />
+	-->
+	<group adgroup="u_rye_jda_qa_scpoviewonly" roleid="102" />
+	<group adgroup="u_rye_jda_qa_scpoadmin" roleid="103" />
+
+</config>
